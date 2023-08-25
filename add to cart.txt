@@ -1,0 +1,5 @@
+ADD TO CART FEATURE:
+
+1. click on button (add to cart) for adding the product on cart.
+2. then press cart button for getting the total price.
+3. code divide into html,  css, javascript.
